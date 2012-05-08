@@ -1,0 +1,24 @@
+{
+    
+    "name":"pubsublite",
+    "version":"0.0.1",
+    "description":"Super lightweight ambiguous communication system"
+    "author":"Peter Higgins <phiggins@gmail.com>",
+    "licenses":[
+        { type:"AFL", url:"http://dojotoolkit.org/license" },
+        { type:"BSD", url:"http://dojotoolkit.org/license" }
+    ],
+    "repository":{
+        "type":"git",
+        "url":""
+    },
+    bugs: "",
+    "engines":[
+        "node >= 0.2.0"
+    ],
+    "directories":{
+        "lib":"./lib"
+    },
+    "main": "./lib/pubsub"
+    
+}
